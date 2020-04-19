@@ -1,0 +1,30 @@
+form {
+
+    border: 2px dotted #545454;
+    border-radius: 3px;
+    padding: 10px;
+    background: rgb(240, 212, 58);
+  border: 0.2rem solid #000;
+  border-radius: 2rem;
+  box-shadow: 1rem 1rem 2rem #444;
+  color: #000;
+  cursor: pointer;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  height: 8rem;
+  letter-spacing: 0.2rem;
+  margin-top: 3rem;
+  margin-left:30%;
+  opacity: 0.8;
+  text-transform: uppercase;
+  transition: all 0.1s;
+  width: 50%;
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
