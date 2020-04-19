@@ -26,4 +26,4 @@ To run the app
 To test the app run ```npm test```
 
 ## Created By:
-Ujjawal Joshi
+### Ujjawal Joshi
